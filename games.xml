@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<steamGames>
+    <game>
+        <title>Portal 2</title>
+        <developer>Valve</developer>
+        <releaseYear>2011</releaseYear>
+        <genre>Puzzle</genre>
+        <price>9.99</price>
+    </game>
+    <game>
+        <title>The Witcher 3: Wild Hunt</title>
+        <developer>CD Projekt Red</developer>
+        <releaseYear>2015</releaseYear>
+        <genre>RPG</genre>
+        <price>29.99</price>
+    </game>
+    <game>
+        <title>Hades</title>
+        <developer>Supergiant Games</developer>
+        <releaseYear>2020</releaseYear>
+        <genre>Roguelike</genre>
+        <price>24.99</price>
+    </game>
+    <game>
+        <title>Stardew Valley</title>
+        <developer>ConcernedApe</developer>
+        <releaseYear>2016</releaseYear>
+        <genre>Simulation</genre>
+        <price>13.99</price>
+    </game>
+</steamGames>
