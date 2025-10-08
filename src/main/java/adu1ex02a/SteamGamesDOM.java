@@ -34,9 +34,9 @@ public class SteamGamesDOM {
     public static void main(String[] args) {
         try {
             // Load and parse the XML file
-            File inputFile = new File("steamGames.xml");
+            File inputFile = new File("games.xml");
             if (!inputFile.exists()) {
-                System.out.println("Error: steamGames.xml not found in the project folder.");
+                System.out.println("Error: games.xml not found in the project folder.");
                 return;
             }
 
