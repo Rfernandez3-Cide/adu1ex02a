@@ -22,16 +22,6 @@ Load Instructions
 
 Make sure that the games.xml file is located in the same directory as the compiled SteamGames class file.
 
-The XML file must have the following structure for each game:
-
-<game>
-  <title>Game Name</title>
-  <developer>Developer Name</developer>
-  <launchDate>Year</launchDate>
-  <genre>Genre</genre>
-  <price>Price</price>
-</game>
-
 Compile the program with the command:
 
 bash
