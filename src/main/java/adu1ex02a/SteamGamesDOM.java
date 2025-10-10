@@ -90,18 +90,18 @@ public class SteamGamesDOM {
                                                                                                                         // tag
                                                                                                                         // price
 
-                    games.add(new Game(title, developer, launchDate, genre, price));
+                    games.add(new Game(title, developer, launchDate, genre, price)); // Add new Game object to the list
                 }
             }
 
             // Print to console and write to files
             for (Game g : games) {
-                System.out.println(g);
+                System.out.println(g); // Print the game info
                 writeToFile(g);
             }
 
         } catch (Exception e) {
-            e.printStackTrace();
+            e.printStackTrace(); // Show any parsing or I/O error
         }
     }
 
