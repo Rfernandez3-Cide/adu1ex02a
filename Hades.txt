@@ -1,0 +1,5 @@
+Title: Hades
+Developer: Supergiant Games
+Launch Date: 2020
+Genre: Roguelike
+Price: 24.99 euros
