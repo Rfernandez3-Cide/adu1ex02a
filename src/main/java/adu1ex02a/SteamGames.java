@@ -34,11 +34,11 @@ class Game {
                 "\nDeveloper: " + developer + // Developer of the game
                 "\nLaunch Date: " + launchDate + // Launch Date of the game
                 "\nGenre: " + genre + // Genre of the game
-                "\nPrice: " + price + " euros"; // Price of the game
+                "\nPrice: " + price + " euros "; // Price of the game
     }
 }
 
-public class SteamGamesDOM {
+public class SteamGames {
     public static void main(String[] args) {
         try {
             // Load and parse the XML file "games.xml"
